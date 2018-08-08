@@ -1,0 +1,7 @@
+Credentials cache: API:41967
+        Principal: spozzi@S19.BE
+
+  Issued                Expires               Principal
+Aug  6 15:36:18 2018  Aug  7 01:36:18 2018  krbtgt/S19.BE@S19.BE
+Aug  6 15:36:19 2018  Aug  7 01:36:18 2018  ldap/ldap-master.s19.be@S19.BE
+Aug  6 15:36:19 2018  Aug  7 01:36:18 2018  HTTP/san-ssd.s19.be@S19.BE
